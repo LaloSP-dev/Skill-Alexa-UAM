@@ -1,0 +1,12 @@
+{
+  "infogeneral": {
+    "general": "La UAM cuenta con cinco unidades académicas localizadas en la Zona Metropolitana del Valle de México con sedes en Azcapotzalco, Cuajimalpa, Iztapalapa, Xochimilco y Lerma, esta última ubicada en  el Estado de México."
+  },
+  "infocontacto": {
+    "azcapotzalco": "La unidad Azcapotzalco se ubica en Av. San Pablo No. 420, Colonia Nueva el Rosario, Codigo Postal 02128. Alcaldía Azcapotzalco, CDMX. El correo electrónico de contacto es: cau@azc.uam.mx, también puedes llamar al número de teléfono 55-5318-9000.",
+        "cuajimalpa": "La unidad Cuajimalpa se ubica en Avenida Vasco de Quiroga 4871, Colonia Santa Fe Cuajimalpa. Alcaldía Cuajimalpa de Morelos, Codigo Postal 05348, Ciudad de México, El correo electrónico de contacto es: jramey@cua.uam.mx, también puedes llamar al número de teléfono  5814 6500.",
+        "iztapalapa": "La unidad Iztapalapa se ubica en Av. Ferrocarril San Rafael Atlixco, Núm. 186, Colonia Leyes de Reforma 1 A Sección, Alcaldía Iztapalapa, Codigo Postal 09310, Ciudad de México, El correo electrónico de contacto es: csocial@xanum.uam.mx, también puedes llamar al número de teléfono  55 5804 4600.",
+        "lerma": "La unidad Lerma se ubica en Av. de las Garzas No. 10, Colonia El Panteón, Municipio Lerma de Villada, Estado de México, Codigo Postal 52005, El correo electrónico de contacto es: cda@correo.ler.uam.mx, también puedes llamar al número de teléfono 728 282 7002.",
+        "xochimilco": "La unidad Xochimilco se ubica en Calzada del Hueso 1100, Colonia Villa Quietud, Alcaldía Coyoacán, Codigo Postal 04960, CDMX. El correo electrónico de contacto es: quieroseruamx@correo.xoc.uam.mx, también puedes llamar al número de teléfono 555483 7000."
+  }
+}

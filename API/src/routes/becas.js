@@ -10,8 +10,8 @@ router.get("/", (req, res) => {
 router.get(`/infobecas/:info`, (req, res) => {
   const { info } = req.params;
 
-  if (becas.InfoBecas[info]) {
-    res.json({ [info]: becas.InfoBecas[info] });
+  if (becas.infobecas[info]) {
+    res.json({ [info]: becas.infobecas[info] })
   } else {
     res.status(404).json({ error: "Elemento no encontrado" });
   }
