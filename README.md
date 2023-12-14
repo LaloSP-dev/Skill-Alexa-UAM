@@ -15,7 +15,7 @@ npm init --y
 Reemplazar `{info}` con la palabra de la información que se requiera.
 
 #### Admisión
-`http://localhost:4006/api/admision`
+`http://localhost:4006/api/admision`<br>
 `http://localhost:4006/api/admision/infoadmision/{info}`
 
 ### Dirección de la API
