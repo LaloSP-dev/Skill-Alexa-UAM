@@ -52,7 +52,7 @@ En nuestro `{package.json}`, podemos que ya tenemos nodemon dentro de nuestras d
 
 ```
 
-Con esa confiduración ya hecha la forma para correr nuestra API es:
+Con esa configuración ya hecha, la forma para correr nuestra API es:
 ```bash
 npm run dev
 ```
