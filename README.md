@@ -49,7 +49,6 @@ En nuestro `{package.json}`, podemos que ya tenemos nodemon dentro de nuestras d
     "nodemon": "^3.0.2"
   }
 }
-
 ```
 
 Con esa configuración ya hecha, la forma para correr nuestra API es:
@@ -57,14 +56,33 @@ Con esa configuración ya hecha, la forma para correr nuestra API es:
 npm run dev
 ```
 
+### Dirección de la API
+http://localhost:{port}
+
+sustituir {port} por el puerto que indique la consola.
+
 ### Consultas
-Reemplazar `{info}` con la palabra de la información que se requiera.
+La API cuenta cuenta con la información requerida para desplegar en nuestra skill. Cada petición devolverá un JSON con la información requerida.
 
 #### Admisión
 `http://localhost:4006/api/admision`<br>
 `http://localhost:4006/api/admision/infoadmision/{info}`
 
-### Dirección de la API
-http://localhost:{port}
+### Becas
+`http://localhost:4006/api/becas`<br>
+`http://localhost:4006/api/becas/infobecas/{info}`
 
-sustituir {port} por el puerto que indique la consola.
+### Idiomas
+`http://localhost:4006/api/idiomas`<br>
+`http://localhost:4006/api/idimas/infoidiomas/{info}`
+
+### Información General
+`http://localhost:4006/api/informaciongeneral`<br>
+`http://localhost:4006/api/informaciongeneral/{typeInfo}`<br>
+`http://localhost:4006/api/informaciongeneral/{typeInfo}/{info}`
+
+### Información General
+`http://localhost:4006/api/ofertaacademica`<br>
+`http://localhost:4006/api/ofertaacademica/{info}`
+
+Reemplazar `{info}` o {typeInfo} con la palabra de la información que se requiera.
